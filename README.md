@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m Marcel from Hamburg, Germany and i´m learn Web Dev at neue fische.
+I´m Marcel from Hamburg, Germany and i´m learning Web Dev at neue fische.
 
 - 🤔 I’m looking for help with arduino 
 - 💬 Ask me about motorsports 
